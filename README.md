@@ -18,6 +18,7 @@
     
   # How to contribute  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </a>
+an simple example
 
 - Fork this [repo](https://github.com/SrishtiSK01/Sonaa)
 
