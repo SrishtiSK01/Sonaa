@@ -1,20 +1,23 @@
 <h1 align="center">Step Upp Learning</h1>
 <div align="center">
-    <img src="./gif/giphy.gif" width="300x" >
+    <img src="https://gph.is/st/Yr61OzY" width="300x" >
 </div>
 <br/>
 <div>
-  ## ⚠️Points to note before you start contributing
+
+## ⚠️Points to note before you start contributing
+  
   -Be polite and professional
   - Please go through [How to contribute](#contribute) and do accordingly to make a smooth contribution.
   Most importantly Keep experimenting 	:nerd_face: :computer: :nerd_face:
 </div>
 <br/>
+
 <a name="contribute">
 # How to contribute  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </a>
 
-- Fork this [repo](https://github.com/swaaz/basicprograms)
+- Fork this [repo](https://github.com/SrishtiSK01/Sonaa)
 
 - Clone it using command :
 <pre> $ git clone paste_the_copied_url.</pre>
